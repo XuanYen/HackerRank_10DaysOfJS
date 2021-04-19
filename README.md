@@ -10,3 +10,4 @@
 * Short-circuit evaluation, falsy, for, while, do-while, for-in, for-of.\
 **Day 3: Arrays, Try Catch Finally, Throw**
 * Array methods, errors, try catch finally, throw.\
+**Day 4: Objects and Classes**
